@@ -1,0 +1,10 @@
+D:\SSIS\db_test\db_test\bin\Debug\db_test.dacpac
+D:\SSIS\db_test\db_test\bin\Debug\db_test.dll
+D:\SSIS\db_test\db_test\bin\Debug\db_test.pdb
+D:\SSIS\db_test\db_test\obj\Debug\db_test.sqlprojAssemblyReference.cache
+D:\SSIS\db_test\db_test\obj\Debug\Model.xml
+D:\SSIS\db_test\db_test\obj\Debug\refactor.xml
+D:\SSIS\db_test\db_test\obj\Debug\postdeploy.sql
+D:\SSIS\db_test\db_test\obj\Debug\predeploy.sql
+D:\SSIS\db_test\db_test\obj\Debug\db_test.dll
+D:\SSIS\db_test\db_test\obj\Debug\db_test.pdb

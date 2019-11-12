@@ -1,0 +1,10 @@
+08/11/2019 22:48:55	This log contains information about the import schema operation into project 'db_test' on computer 'DESKTOP-9G56IOI' by user 'Raman'.
+08/11/2019 22:48:55	Deserializing model
+08/11/2019 22:48:56	Resolving model
+08/11/2019 22:48:56	Visiting imported model for types
+08/11/2019 22:48:56	Scanning project for duplicate elements
+08/11/2019 22:48:56	Finished duplicate element processing
+08/11/2019 22:48:56	Processing extra files
+08/11/2019 22:48:56	Finished importing Data-tier Application file.
+08/11/2019 22:48:56	A summary of the import was saved to the following location: D:\SSIS\db_test\db_test\Import Schema Logs\db_test_20191108051855.log
+08/11/2019 22:48:56	Click Finish to continue...
